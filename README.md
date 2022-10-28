@@ -1,4 +1,4 @@
-# Dumper
+# Dumper !IMPORTANT! I'm not the author of this code - I just saved it for the futher digging in it
 
 Dumper is a Frida script to dump L3 CDMs from any Android device.
 
